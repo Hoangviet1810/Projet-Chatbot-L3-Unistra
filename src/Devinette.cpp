@@ -9,7 +9,7 @@
 
 using json = nlohmann::json;
 
-Devinette::Devinette() : bot("http://llmcode.math.unistra.fr:8090/v1/chat/completions") {}
+Devinette::Devinette() : bot("http://llmcode.math.unistra.fr:8090/v1/chat/completions") {} // on peut changer le link de d'autre chatbot IA (chatgpt, minsitral, deepseek, etc ) pour continuer.
 
 std::string Devinette::choisirMotAleatoire() {
    std::string url = "https://random-words-api.vercel.app/word/french";  // une site pour obtenir un mot aléatoire mais avec de sens
