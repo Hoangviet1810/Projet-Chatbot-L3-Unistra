@@ -6,7 +6,7 @@ Ce projet est réalisé dans le cadre de la Licence 3 Mathématiques Appliquées
 
 Il implémente un jeu de devinettes avec un chatbot utilisant C++17, CPR, JSON et Catch2 pour les tests.
 
-Il y 2 mode de joue:
+Il y a 2 mode de joue:
 - Mode 1 : Le joueur devine
 - Mode 2 : Le chatbot devine
 
@@ -83,7 +83,7 @@ git branch -M main
 git push -uf origin main
 ```
 ## Name
-Chatbot Devinette — un chatbot intelligent en C++ conçu pour jouer à des jeux de devinettes interactifs avec l'utilisateur.
+Chatbot Devinette — un chatbot intelligent en C++ conçu pour jouer à des jeux de devinettes interactifs avec l'utilisateur. 
 
 ## Description
 Ce projet consiste en un chatbot développé en C++ qui permet de jouer à un jeu de devinettes. Le chatbot peut fonctionner en deux modes :
