@@ -1081,22 +1081,6 @@ donc on peut continuer à excecuter les codes sans probleme.
 
 
 ----
-# Annexes: Utilisation de ChatGPT pour la résolution des excercices
-Pour ce projet de chatbot devinette, j’ai utilisé ChatGPT afin de m’aider à concevoir la logique du jeu et à structurer le code C++.
-ChatGPT m’a assisté pour formuler les consignes du chatbot, notamment pour qu’il pose uniquement des questions fermées sans jamais deviner directement le mot secret.
-
-Voici les principaux apports de ChatGPT dans ce projet :
-- Écriture et optimisation des instructions système pour guider le comportement du chatbot dans l’API GPT.
-- Conseils sur la gestion des interactions, comme éviter la répétition des questions déjà posées et vérifier la cohérence des réponses.
-- Aide à structurer le code C++ pour intégrer les appels à l’API OpenAI (ou compatible) en respectant les contraintes de format JSON. 
-- Proposition de tests unitaires pour vérifier la robustesse des fonctions clés comme la sélection aléatoire du mot ou la génération d’indices.
-- Explications détaillées sur la gestion des rôles dans les messages (system, user, assistant) pour un dialogue cohérent.
-
-Durant le développement, j’ai utilisé ChatGPT pour valider la logique de chaque étape et pour obtenir des suggestions sur la manière d’améliorer la fluidité du dialogue avec l’utilisateur.
-ChatGPT m’a également aidé à formuler des messages d’erreur clairs et à gérer les cas limites (répétition de questions, réponses invalides, erreurs API).
-
-En conclusion, ChatGPT a été un outil précieux tout au long du projet, permettant de gagner du temps dans la conception et d’assurer une meilleure qualité de code et d’expérience utilisateur. 
-
 # Petit remarque pour les commit 
 - change deta: changer detaille
 - moi nhat: le plus récent ( c'est un mot vietnamien)
