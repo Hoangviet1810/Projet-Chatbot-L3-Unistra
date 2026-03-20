@@ -2,9 +2,7 @@
 # Projet Devinette - Chatbot en C++
 
 ## Contexte
-Ce projet est réalisé dans le cadre de la **Licence 3 Mathématiques Appliquées** à l'**Université de Strasbourg**.
-
-Ce projet implémente un jeu de devinettes avec un chatbot utilisant C++17, CPR, JSON et Catch2 pour les tests.
+Ce projet est réalisé dans le cadre de la Licence 3 Mathématiques Appliquées à l'Université de Strasbourg. Développement d’un chatbot de jeu de devinettes utilisant un modèle de langage large (LLM) distant, accessible via une API HTTP, implémenté en C++. Ce projet implémente un jeu de devinettes avec un chatbot utilisant C++17, CPR, JSON et Catch2 pour les tests.
 
 Il y 2 mode de joue:
 - Mode 1 : Le joueur devine
