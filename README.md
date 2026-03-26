@@ -1,6 +1,23 @@
 # chatbotl3
 # Projet Devinette - Chatbot en C++
 
+## Table des Matières
+
+- [Contexte](#contexte)
+  - [Mode de jeu](#mode-de-jeu)
+- [Prérequis](#prérequis)
+  - [Remarque](#remarque)
+  - [Compilation et exécution](#compilation-et-exécution)
+    - [Mode 1 : le joueur devine](#mode-1--le-joueur-devine)
+    - [Mode 2 : le chatbot devine](#mode-2--le-chatbot-devine)
+  - [Tests](#tests)
+- [Structure](#structure)
+- [Ajout de vos fichiers](#add-your-files)
+- [Nom du projet](#name)
+- [Description](#description)
+- [Dépendances et gestion des bibliothèques externes](#dépendances-et-gestion-des-bibliothèques-externes)
+- [Références](#réference)
+
 ## Contexte
 Ce projet est réalisé dans le cadre de la Licence 3 Mathématiques Appliquées à l'Université de Strasbourg. 
 
