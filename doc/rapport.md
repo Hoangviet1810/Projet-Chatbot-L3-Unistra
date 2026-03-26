@@ -1078,15 +1078,3 @@ Cela permet d’accéder aux fonctions privées uniquement dans le cadre des tes
 #### Résumé
 Ce fichier définit la classe Devinette avec plusieurs méthodes privées, notamment choisirMotAleatoire et obtenirIndice, qui ne devraient pas être accessibles depuis l’extérieur. Cependant, grâce à la directive #ifdef TEST_MODE, on rend ces méthodes publiques uniquement lors de la compilation en mode test, ce qui permet aux tests unitaires d’y accéder sans changer la conception normale de la classe.
 donc on peut continuer à excecuter les codes sans probleme.
-
-
-----
-# Petit remarque pour les commit 
-- change deta: changer detaille
-- moi nhat: le plus récent ( c'est un mot vietnamien)
-
-Je tiens à vous expliquer pourquoi il y a peu de git push visibles sur GitLab.
-En réalité, j'ai bien travaillé régulièrement sur le projet, et j'enregistrais souvent mes fichiers localement sur mon ordinateur (j'utilise un Mac à la maison), mais je ne faisais pas toujours de git push vers le dépôt GitLab après chaque modification.
-C’est pourquoi l’activité Git peut sembler limitée, même si j’ai bien avancé sur le code en local.
-Je vais faire plus attention à pousser plus régulièrement mes changements à l’avenir.
-Merci à vous beacoup.
