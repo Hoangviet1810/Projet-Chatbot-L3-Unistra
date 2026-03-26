@@ -4,7 +4,6 @@
 ## Table des Matières
 
 - [Contexte](#contexte)
-  - [Mode de jeu](#mode-de-jeu)
 - [Prérequis](#prérequis)
   - [Remarque](#remarque)
   - [Compilation et exécution](#compilation-et-exécution)
