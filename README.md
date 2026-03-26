@@ -92,14 +92,14 @@ chatbotl3/
 |   └── test2.cpp
 └── README.md
 ```
-## Add your files
+## Télécharger le code du projet
 ```
 cd existing_repo
-git remote add origin https://git.unistra.fr/dhvnguyen/chatbotl3.git
+git clone https://github.com/Hoangviet1810/projet-chatbot-L3-unistra.git
 git branch -M main
 git push -uf origin main
 ```
-## Name
+## Nom
 Chatbot Devinette — un chatbot intelligent en C++ conçu pour jouer à des jeux de devinettes interactifs avec l'utilisateur. 
 
 ## Description
